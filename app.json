@@ -1,6 +1,7 @@
 {
   "name": "TgProtectronBot",
   "description": "A beta group-manager bot made with Python [Telethon]",
+  "logo": "https://telegra.ph/file/0956abec899d17aa00bdb.jpg",
   "keywords": [
     "telegram",
     "plugins",
