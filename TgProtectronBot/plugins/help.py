@@ -14,7 +14,7 @@ HELP_TEXT = """
 /start - To Start Me ;)
 /help - To Get Available Help Menu
 
-""".format(Config.BOT_US)
+""".format(Config.BOT_USERNAME)
 
 
 @Stark.on(events.NewMessage(pattern="[!?/]help"))
