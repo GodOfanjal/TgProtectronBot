@@ -3,7 +3,7 @@ from telethon import events, Button
 
 PM_START_TEXT = """
 **Hi {}**
-I am simple manager robot whos help to you for manage your group
+I am simple manager bot whos help to you for manage your group
 
 **Click the below help button for the open help menu!**
 """
